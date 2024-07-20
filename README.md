@@ -1,4 +1,4 @@
-<img src="Cuauhtli.jpg" width="200" height="150" alt="Antonio Vega">>
+<img src="Cuauhtli.jpg" width="200" height="150" alt="Antonio Vega">
 - 👋 Hola, Yo soy @Antonio0677<br>
 - 👀 Me interesa la tecnología en programación e IA ...<br>
 - 🌱 Actualmente estoy estudiando un Doctorado en Tecnologia Educativa ...<br>
