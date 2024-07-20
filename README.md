@@ -1,4 +1,4 @@
-<img src="Avr_perfil.jpeg">
+<img src="Cuauhtli.jpg">
 - 👋 Hola, Yo soy @Antonio0677<br>
 - 👀 Me interesa la tecnología en programación e IA ...<br>
 - 🌱 Actualmente estoy estudiando un Doctorado en Tecnologia Educativa ...<br>
